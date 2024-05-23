@@ -1,0 +1,15 @@
+{
+    "title": "GAME 001",
+    "loadbtn": "LOAD GAME",
+    "nwbtn": "NEW GAME",
+    "modals":{
+        "load_modal": {
+            "title": "LOAD GAME",
+            "label": "Select a file with your savegame url or paste it in the input below.",
+            "file_inp": "Search File",
+            "txt_inp_ph": "Your Url Game",
+            "acp_btn": "Load",
+            "ccl_btn": "Cancel"
+        }
+    }
+}
