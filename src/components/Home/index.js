@@ -1,5 +1,11 @@
 // import Text from "@/Text/Home.json"
 
+
+
+
+
+
+
 export default async function INIT({ lang }) {
   const Text = await (async () => {
     switch (lang.toLowerCase()) {
@@ -15,3 +21,4 @@ export default async function INIT({ lang }) {
     ...Text
   };
 }
+
